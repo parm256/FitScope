@@ -13,7 +13,7 @@
     font-size: 14px;
 }
 .homeicon{
-    color: #0066EE;
+    color: #085e45;
     
 }
 .socialMediaIconDiv{
@@ -47,7 +47,7 @@ font-size: 21px;
     display: flex;
     justify-content: center;
     gap: 2%;
-    background: #0066EE;
+    background: #085e45;
     color: white;
     padding-top: 1%;
     padding-bottom: 1%;
@@ -64,14 +64,14 @@ font-size: 21px;
 .FootlogoContainer{
 text-align: center;
 padding: 4%;
-color: #0066EE;
+color: #085e45;
 font-size: 22px;
 }
 @media all and (min-width: 381px) and (max-width: 700px) {
     .FootlogoContainer {
         text-align: center;
         padding: 2%;
-        color: #0066EE;
+        color: #085e45;
         font-size: 16px;
         margin-top: 5%;
         margin-bottom: 5%;
@@ -81,7 +81,7 @@ font-size: 22px;
     .FootlogoContainer {
         text-align: center;
         padding: 2%;
-        color: #0066EE;
+        color: #085e45;
         font-size: 12px;
         margin-top: 5%;
         margin-bottom: 5%;
@@ -90,7 +90,7 @@ font-size: 22px;
 
 .MiniFootlogoContainer{
 text-align: center;
-color: #0066EE;
+color: #085e45;
 font-size: 16px;
 }
 .BlogFootlogoPara{
@@ -105,7 +105,7 @@ font-size: 16px;
 }
 .lowerFootlogoContainer{
     text-align: center;
-color: #0066EE;
+color: #085e45;
 font-size: 16px;
 font-weight: bold;
 margin-top: 7%;
